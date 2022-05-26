@@ -1,0 +1,33 @@
+        h1 {
+            text-align: center;
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        h2 {
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        p {
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        input {
+            display: block;
+            margin: auto;
+        }
+
+        .generatebtn {
+            display: block;
+            margin: auto;
+        }
+
+        body {
+            background-color:grey;
+        }
